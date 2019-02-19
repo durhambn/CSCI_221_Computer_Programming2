@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=name\ address\ tag\ latitude\ longitude
+comment0.target=PlaceInformation(java.lang.String,\ java.lang.String,\ java.lang.String,\ double,\ double)
+comment1.params=
+comment1.target=java.lang.String\ getName()
+comment2.params=
+comment2.target=java.lang.String\ getAddress()
+comment3.params=
+comment3.target=java.lang.String\ getTag()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment5.params=
+comment5.target=GeoLocation\ getLocation()
+comment6.params=spot
+comment6.target=double\ distanceFrom(GeoLocation)
+numComments=7

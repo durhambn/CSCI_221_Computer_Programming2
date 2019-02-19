@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=query
+comment0.target=GeoLocation\ find(java.lang.String)
+comment1.params=parsedLocationXML
+comment1.target=boolean\ containsLocationResult(org.w3c.dom.Document)
+comment2.params=parsedLocationXML
+comment2.target=GeoLocation\ find(org.w3c.dom.Document)
+comment3.params=parsedLocationXML
+comment3.target=java.lang.String\ getTag(org.w3c.dom.Document)
+comment4.params=query
+comment4.target=org.w3c.dom.Document\ parseQueryResultsIntoDocument(java.lang.String)
+comment5.params=e
+comment5.target=void\ handleException(java.lang.Exception)
+comment6.params=toEncode
+comment6.target=java.lang.String\ urlEncodeUTF8(java.lang.String)
+comment7.params=xPath\ path
+comment7.target=javax.xml.xpath.XPathExpression\ compile(javax.xml.xpath.XPath,\ java.lang.String)
+numComments=8

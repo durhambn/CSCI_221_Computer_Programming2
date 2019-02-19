@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=theLatitude\ theLongitude
+comment0.target=GeoLocation(double,\ double)
+comment0.text=\n\ initializes\ instance\ variable,\ latitude\ and\ longitude,\ for\ this\ GeoLocation\n\ Precondition\:\ theLatitude\ and\ theLongitude\ are\ valid,\ latitude\ and\ longitude\ values\n
+comment1.params=
+comment1.target=double\ getLatitude()
+comment1.text=\n\ returns\ the\ latitude\ of\ this\ geo\ location\n
+comment2.params=
+comment2.target=double\ getLongitude()
+comment2.text=\n\ returns\ the\ longitude\ of\ this\ geo\ location\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment3.text=\n\ returns\ a\ string\ representation\ of\ this\ geo\ location\n
+comment4.params=other
+comment4.target=double\ distanceFrom(GeoLocation)
+comment4.text=\n\ returns\ the\ distance\ in\ miles\ between\ this\ geo\ location\ and\ the\ given\n\ other\ geo\ location\n\ Precondition\:\ other\ is\ a\ non-null\ GeoLocation\ object\n
+numComments=5
