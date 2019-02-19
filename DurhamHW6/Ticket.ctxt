@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=a
+comment0.target=Ticket(int)
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ Ticket\n
+comment1.params=
+comment1.target=int\ getPrice()
+comment1.text=\ \n\ Every\ subclass\ must\ implement\ this\ method,\ to\ compute\ price\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment2.text=\n\ The\ toString\ must\ be\ implmented\ for\ each\ subclass\ to\ return\ a\n\ string\ with\ ticket\ num\ and\ price\n
+numComments=3
